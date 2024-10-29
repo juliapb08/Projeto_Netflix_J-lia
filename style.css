@@ -11,3 +11,20 @@ header {border-bottom: solid 2px rgb(230, 181, 181);
     padding-bottom: 80px;
     padding-top: 80px;
 }
+.chamada{background-color: rgb(rgb(170, 54, 141), rgb(248, 26, 148), rgb(236, 159, 230));
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto {margin-right:5%;}
+h1 {font-size: 40px;}
+p{font-size: 25px;}
+
+.categorias-videos{
+    display:flex;
+    overflow-x:auto;
+    gap:10px
+}
+
+
